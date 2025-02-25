@@ -1,11 +1,11 @@
 package fabricas;
 
-import vehiculos.Carro;
+import vehiculos.Moto;
 import vehiculos.Vehiculo;
 
-public class ParqueaderoCarros extends Parqueadero {
+public class MotoFactory implements FabricaVehiculo {
     @Override
     public Vehiculo crearVehiculo(String placa) {
-        return new Carro(placa);
+        return new Moto(placa);
     }
 }

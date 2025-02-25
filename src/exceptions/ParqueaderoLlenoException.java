@@ -1,7 +1,8 @@
 package exceptions;
 
 public class ParqueaderoLlenoException extends Exception {
-    public ParqueaderoLlenoException(String message) {
-        super(message);
+    
+    public ParqueaderoLlenoException(String mensaje) {
+        super(mensaje);
     }
 }

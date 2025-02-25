@@ -1,7 +1,7 @@
 package exceptions;
 
 public class TipoVehiculoNoPermitidoException extends Exception {
-    public TipoVehiculoNoPermitidoException(String message) {
-        super(message);
+    public TipoVehiculoNoPermitidoException(String mensaje) {
+        super(mensaje);
     }
 }
