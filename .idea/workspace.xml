@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b6161b2-fd67-4f70-80c6-9df22df16cfe" name="Changes" comment="transport 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Parqueadero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parking-backend/src/main/java/com/parking/parqueadero/Parqueadero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +30,12 @@
     &quot;assignee&quot;: &quot;LukasRL911&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LukasRL911/parking-backend.git",
-    "accountId": "abd013e2-caa9-413f-953a-f64cde2ba82a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LukasRL911/parking-backend.git&quot;,
+    &quot;accountId&quot;: &quot;abd013e2-caa9-413f-953a-f64cde2ba82a&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
